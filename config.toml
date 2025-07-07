@@ -1,0 +1,48 @@
+# The URL the site will be built for
+base_url = "https://jamologies.net"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "duckquill"
+title = "home"
+generate_feeds = true
+feed_filenames = ["atom.xml", "rss.xml"]
+author = "jamie"
+
+default_language = "en"
+
+taxonomies = [{name = "tags", feed = true}]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+bottom_footnotes = true
+
+[search]
+index_format = "fuse_json"
+
+[extra]
+
+default_theme = "light"
+
+accent_color = "#ff7800"
+accent_colour_dark = "#ffa348"
+
+[extra.nav]
+show_feed = true
+show_theme_switcher = true
+links = [
+  { name = "blog", url = "@/blog/_index.md" },
+  { name = "portfolio",  url = "@/portfolio.md" },
+  { name = "resources" , url = "@/resources.md" },
+  { name = "contact" , url = "@/contact.md" }
+]
+
+[extra.footer]
+
+show_powered_by = true
