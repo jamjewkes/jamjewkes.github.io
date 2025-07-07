@@ -27,7 +27,7 @@ bottom_footnotes = true
 index_format = "fuse_json"
 
 [extra]
-
+card = false
 emoji_favicon = "🐻"
 
 default_theme = "light"
