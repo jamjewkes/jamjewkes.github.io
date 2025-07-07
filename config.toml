@@ -28,6 +28,8 @@ index_format = "fuse_json"
 
 [extra]
 
+emoji_favicon = "🐻"
+
 default_theme = "light"
 
 accent_color = "#ff7800"
