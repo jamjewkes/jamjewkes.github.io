@@ -52,9 +52,9 @@ you can also fry & brown the halloumi, but i normally don't (mainly to save time
 
 **making the couscous:**
 
-1) boil a kettle
-2) put your stock cube in a large bowl
-3) pour the boiling water over the stock cube, allowing it to dissolve
+1) boil a kettle.
+2) put your stock cube in a large bowl.
+3) pour the boiling water over the stock cube, allowing it to dissolve.
 4) pour in your couscous. the water should fully cover the couscous.
 5) put in a handful of sultanas, and stir to make sure they're roughly distributed.
 
