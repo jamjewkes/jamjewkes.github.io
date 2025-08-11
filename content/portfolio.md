@@ -10,6 +10,10 @@ this is just a collection of things i have done, from projects to articles, to a
 <details>
   <summary> opinion pieces & articles </summary>
 
+  **[why improving trans healthcare doesn't end at transition](https://www.healthinnowest.net/2025/07/why-improving-trans-healthcare-doesnt-end-at-transition/)**
+  <br>
+  <small> july 2025, health innovation west of england </small>
+  <br>
   **[trans kids just want to live and be happy](https://www.bigissue.com/opinion/government-guidance-trans-children-schools-mermaids/)**
   <br>
   <small> feb 2024, the big issue </small>
