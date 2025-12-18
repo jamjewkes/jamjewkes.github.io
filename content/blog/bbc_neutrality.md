@@ -1,11 +1,12 @@
 +++
-authors = ["jamie"] 
-title = "the bbc & political neutrality" 
-description = "here's a belated analysis of a BBC article on transphobia!" 
-date = 2025-12-18 [taxonomies] 
-tags = ["bbc", "transgender", "transphobia"] 
-[extra] 
-featured = true 
+authors = ["jamie"]
+title = "the bbc & political neutrality"
+description = "here's a belated analysis of a BBC article on transphobia!"
+date = 2025-12-18
+[taxonomies]
+tags = ["bbc", "transgender", "transphobia"]
+[extra]
+featured = true
 +++
 
 {%alert(note=true)%} Due to essays & other commitments, this blog post has been very delayed. I started writing this a day or two after the BBC article came out, so this pre-dates the most recent BBC "neutrality" scandal. This isn't meant to be a comprehensive analysis of the BBC's transphobia, I just wanted to highlight a specific example local to me! Thanks! {%end%}
