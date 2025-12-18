@@ -9,7 +9,7 @@ please be patient! if i don't reply after 2 weeks, please ping me again!
 
 i might reply from my uni / nhs emails, if i think we're better suited to talking there.
 
-i'm also chronically on [bluesky](https://bsky.app/profile/jamologies.net), so that's probably a good way to get my attention.
+i'm also chronically on [bluesky](https://bsky.app/profile/jamologies.net), so that's probably a good way to get my attention, though please be aware that i do not have dms on there.
 
 
 ---
