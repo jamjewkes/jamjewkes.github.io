@@ -1,4 +1,4 @@
-+++ 
++++
 authors = ["jamie"] 
 title = "the bbc & political neutrality" 
 description = "here's a belated analysis of a BBC article on transphobia!" 
