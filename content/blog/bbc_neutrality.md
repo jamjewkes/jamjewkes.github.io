@@ -1,6 +1,6 @@
 +++ authors = ["jamie"] title = "the bbc & political neutrality" description = "Here's a belated analysis of a BBC article on transphobia!" date = 2025-12-18 [taxonomies] tags = ["bbc", "transgender", "transphobia"] [extra] featured = true +++
 
-Note: Due to essays & other commitments, this blog post has been very delayed. I started writing this a day or two after the BBC article came out, so this pre-dates the most recent BBC "neutrality" scandal. This isn't meant to be a comprehensive analysis of the BBC's transphobia, I just wanted to highlight a specific example local to me! Thanks!
+{%alert(note=true)%} Due to essays & other commitments, this blog post has been very delayed. I started writing this a day or two after the BBC article came out, so this pre-dates the most recent BBC "neutrality" scandal. This isn't meant to be a comprehensive analysis of the BBC's transphobia, I just wanted to highlight a specific example local to me! Thanks! {%end%}
 
 On the 7th November 2025, the BBC published an article titled "Councillors clash with residents over trans rights". To the untrained eye, this may seem like nothing more than a short piece of local democracy reporting, but if we look just a little closer, we can see how the BBC weaponises ideas of 'neutrality' in favour of transphobic ideals.
 
