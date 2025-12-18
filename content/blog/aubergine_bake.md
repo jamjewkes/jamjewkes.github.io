@@ -6,7 +6,6 @@ date = 2025-08-11
 [taxonomies]
 tags = ["recipe"]
 [extra]
-featured = true
 +++
 
 first things first: i am not going to become a food blogger. however, i am horrifically burdened with mental paralysis, and putting up some of my favourite meals is the easiest way to force myself to post on here.
