@@ -1,7 +1,7 @@
 +++ 
 authors = ["jamie"] 
 title = "the bbc & political neutrality" 
-description = "Here's a belated analysis of a BBC article on transphobia!" 
+description = "here's a belated analysis of a BBC article on transphobia!" 
 date = 2025-12-18 [taxonomies] 
 tags = ["bbc", "transgender", "transphobia"] 
 [extra] 
