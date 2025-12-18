@@ -22,7 +22,7 @@ archive = "???"
 
 hi, i'm **jamie** (he/they)
 
-i'm a 22 y/o philosophy master's student at the university of bristol & a project support officer within the nhs.
+i'm a 23 y/o philosophy master's student at the university of bristol & a project support officer within the nhs.
 i'm also a trans advocate.
 
 i split my time between these three worlds, but i'll always take up an opportunity to bring them together.
