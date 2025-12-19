@@ -1,3 +1,13 @@
++++
+authors = ["jamie"]
+title = "seitan & grains"
+description = "i've come into a lot of free time, so here's another favourite recipe of mine"
+date = 2025-12-19
+[taxonomies]
+tags = ["recipe"]
+[extra]
++++
+
 this is my default lunchtime mealprep - it's super easy to do and very delicious!! full of fibre too, so even better!!
 
 **ingredients:**
