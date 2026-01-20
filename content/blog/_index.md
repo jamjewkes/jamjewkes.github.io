@@ -1,7 +1,7 @@
 +++
 title = "jamie's writings!"
 sort_by = "date"
-paginate_by = 2
+paginate_by = 3
 template = "article_list.html"
 page_template = "article.html"
 +++
