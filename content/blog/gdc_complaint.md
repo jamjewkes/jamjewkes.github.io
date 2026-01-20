@@ -9,6 +9,8 @@ tags = ["transgender", "healthcare", "nhs", "transphobia"]
 featured = false
 +++
 
+UPDATE: They replied! See ![here](https://jamologies.net/blog/gdc-response/)
+
 The below text is a copy of my complaint to the Northampton Gender Clinic, over their website stating that oestrogen causes 'breasts to become lumpy and increase in size slightly'. If they respond, I'll give an update in a new post. 
 
 
