@@ -2,11 +2,11 @@
 authors = ["jamie"]
 title = "a reply from the northampton gender clinic"
 description = "almost a month after my complaint to the northampton gender clinic, they've graced me with a 'reply'!"
-date = 2026-01-26
+date = 2026-01-19
 [taxonomies]
 tags = ["transgender", "healthcare", "nhs", "transphobia"]
 [extra]
-featured = true
+featured = false
 +++
 
 Toward the end of 2025, I wrote a complaint to the Northampton GDC, which you can see [here](https://jamologies.net/blog/gdc-complaint/). Yesterday, they replied to me. Unsurprisingly, it's a complete nothing-burger. I'll be sending a further response, so keep eyes out for that. 
