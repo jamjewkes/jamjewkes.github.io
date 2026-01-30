@@ -17,7 +17,7 @@ There is a lot more that both Zettlr and Zotero can offer you, but I'm focusing 
 
 ## Zotero
   
-As mentioned, Zotero is a citation manager. It's not the only citation manager around, but it's the best. There are many things that attracted me to Zotero, as opposed to other options (notably Mendeley and EndNote).
+Zotero is a citation manager. It's not the only citation manager around, but it's the best. There are many things that attracted me to Zotero, as opposed to other options (notably Mendeley and EndNote).
 Whilst knowing this isn't necessary for my little tutorial, I think providing justification is still useful!
 I'll start with why *not* EndNote or Mendeley first.
 
