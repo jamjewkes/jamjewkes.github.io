@@ -9,6 +9,8 @@ tags = ["transgender", "healthcare", "nhs", "transphobia"]
 featured = false
 +++
 
+**UPDATE:** I sent a second response! You can see it [here](https://jamologies.net/blog/gdc-my-reply/)
+
 Toward the end of 2025, I wrote a complaint to the Northampton GDC, which you can see [here](https://jamologies.net/blog/gdc-complaint/). Yesterday, they replied to me. Unsurprisingly, it's a complete nothing-burger. I'll be sending a further response, so keep eyes out for that. 
 
 The text from the response is as follows:
