@@ -6,7 +6,7 @@ date = 2026-01-29
 [taxonomies]
 tags = ["academia", "technology", "zotero", "zettlr"]
 [extra]
-featured = true
+featured = false
 +++
 
 {%alert(note=true)%} 
