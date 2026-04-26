@@ -6,7 +6,7 @@ date = 2026-04-15
 [taxonomies]
 tags = ["gloucester road"]
 [extra]
-featured = true
+featured = false
 +++
 
 Everyone who makes a personal blog succumbs to the problem of either having no ideas, or no time to actually post. I myself have had a previous iteration of this website fall into the neglected pit of blogs, and I'm determined for that to not happen again (don't look at when my last post was). Fortunately, I've been blessed with an idea for a Blog Series, that will keep me full of ideas, removing the biggest hurdle I have to posting.
