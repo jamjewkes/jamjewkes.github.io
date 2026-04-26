@@ -1,3 +1,4 @@
++++
 authors = ["jamie"]
 title = "day 1: bobby's news"
 description = "the true start of the odyssey"
